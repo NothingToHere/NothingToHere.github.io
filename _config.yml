@@ -14,7 +14,7 @@ filter: 'category'
 recent_num: 20
 
 # avatar and Favicon
-# avatar: http://imgs.yansu.org/site-avatar.png
+avatar: https://nothingtohere.github.io/assets/img/avatar.jpg
 # favicon: http://imgs.yansu.org/site-favicon.ico
 
 # Build settings
