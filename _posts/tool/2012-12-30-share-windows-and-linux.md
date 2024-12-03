@@ -34,8 +34,6 @@ description: 如果你也像我一样经常工作于Windows和Linux，那么这�
     我选择了ubuntu server最小化安装，不安装x window，结果就是512内存和1cpu就顺畅运行，做各种开发木有问题
 3. 安装securecrt或者putty
     vmware下直接用字符界面很蛋疼，没有全屏，所以使用securecrt来连接linux，这就是为啥第一步关闭vmware后还留下虚拟机。这么做可以让资源尽可能充足应用。
-4. 给Linux共享文件
-    在字符界面下安装vmtools不是很容易，方法请参考我的另外一篇文章[给Vmware下的Ubuntu Server共享文件](http://yansublog.sinaapp.com/2012/12/17/%e7%bb%99vmware%e4%b8%8b%e7%9a%84ubuntu-server%e5%85%b1%e4%ba%ab%e6%96%87%e4%bb%b6/ "给Vmware下的Ubuntu Server共享文件")。这么做主要是为了在Windows下些代码，在Linux上运行
 
 ## 总结
 

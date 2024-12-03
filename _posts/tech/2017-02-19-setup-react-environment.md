@@ -253,11 +253,12 @@ yarn add react-router
 修改package.json，加入scripts
 
 ```json
-"scripts": {
+{
+  "scripts": {
     "start": "webpack-dev-server",
     "build": "webpack --progress --colors"
-    
-  },
+  }
+}
 ```
 
 build 方法会把网站打包一下，然后放到之前定义好的目录里面。start 可以直接开启开发模式，并且开启预览
@@ -267,8 +268,6 @@ yarn start
 ```
 
 ## 7. start kit
-
-这些配置不需要每次都跑一次，我自己的放在 [Github](https://github.com/suyan/react-start-kit) 上。下载下来运行
 
 ```
 yarn install
